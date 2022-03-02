@@ -7,9 +7,7 @@ int main(){
 	printf("Hello, World.\n");	
 	
 	//this change is on branch 'dora'
-	printf("Hey, I'm Dora\n");
+	printf("Hey, I'm A Dora\n");
 	//hahahha
 	return 0;
-	//this change is on branch 'main'
-	printf("Hey, this is main branch\n");
 }
